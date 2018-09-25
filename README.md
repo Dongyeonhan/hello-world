@@ -1,5 +1,5 @@
 # hello-world
 hello-world
-wowwow!!
-wowwow2
-My nickname is Tom. Let's start
+Here is for the new idea of my work.
+My first time to visit git and use : 2018.09.25
+Let's start!!
